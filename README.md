@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack, automation
 - 🌱 I’m currently learning an automation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mohammad.uzzaman@sarlin.com
+- 📫 How to reach me ...mohammad.uzzaman.fi@gmail.com
 
 <!---
 farid555/farid555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
