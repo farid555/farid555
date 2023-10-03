@@ -38,5 +38,5 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-<code><img height="50" src="https://ibb.co/0jk43Hk" alt="iconics"></code>
+<code><img height="50" src="https://i.ibb.co/pvgVpYg/download.png" alt="iconics"></code>
 <br><br>
