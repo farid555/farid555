@@ -38,6 +38,5 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonics.com%2F&psig=AOvVaw0tGgbESiq2DQ4Xskl5g12O&ust=1696424720386000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC8z9j42YEDFQAAAAAdAAAAABAE" alt="iconics"></code>
-
+<code><img height="50" src="https://www.cleanpng.com/png-iconics-automation-computer-software-logo-systems-3220653/" alt="iconics"></code>
 <br><br>
