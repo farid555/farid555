@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="left">Languages and Tools:</h3>
-
+<code><img height="50" src="https://i.ibb.co/pvgVpYg/download.png" alt="iconics"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
@@ -38,5 +38,4 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-<code><img height="50" src="https://i.ibb.co/pvgVpYg/download.png" alt="iconics"></code>
 <br><br>
