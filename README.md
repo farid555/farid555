@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning an automation
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...mohammad.uzzaman.fi@gmail.com
- [more...](https://portfolio-v1-gules.vercel.app/)
+- [more...](https://portfolio-v1-gules.vercel.app/)
   
 
 <!---
