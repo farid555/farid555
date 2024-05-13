@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad Farid Uzzaman
-- 👀 I’m interested in full-stack, automation
+- 👀 I’m interested in full-stack, DevOps, AWS, automation
 - 🌱 I’m currently learning an automation
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...mohammad.uzzaman.fi@gmail.com
