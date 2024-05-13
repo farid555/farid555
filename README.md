@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning an automation
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...mohammad.uzzaman.fi@gmail.com
-- https://portfolio-v1-gules.vercel.app/
-- 
+  https://portfolio-v1-gules.vercel.app/
+  
 
 <!---
 farid555/farid555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
