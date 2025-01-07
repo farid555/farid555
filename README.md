@@ -61,6 +61,8 @@ I use these tools and technology to make thoughts reality, much like a hero requ
 
 ---
 
-
-
+## Courses
+[Devops Training-1](https://poridhi.io/course-details/6193e69f-6e1f)
+[Devops Training-2](https://www.trainwithshubham.com/courses/DevOps---Zero-To-Hero-Junoon-Batch-1724491636043-66c9a7745767953c70fcdfcb)
+[Devops Training-3](https://www.devopsshack.com/)
   
