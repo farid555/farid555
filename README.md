@@ -1,9 +1,9 @@
 # Welcome to my GitHub
-## Thank you for taking the time to visit my website.
--  Hi there, I’m Mohammad Farid Uzzaman 👋
+ Thank you for taking the time to visit my website. Hi there, I’m Mohammad Farid Uzzaman 👋
+ 
 ---
 
- 👀 I’m passionate about **DevOps, Cloud computing, and Automation**
+👀 I’m passionate about **DevOps, Cloud computing, and Automation**
 
 I have developed over the years from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
 
@@ -47,8 +47,8 @@ I use these tools and technology to make thoughts reality, much like a hero requ
 
 ## 🌟 Featured Projects
 
-### [Project 1]([Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD](https://github.com/farid555/reactjs))
-🚀 Cloud-native applications using AWS, Kubernetes, and DevSecOps tools.  
+### [Project 1](https://github.com/farid555/reactjs)
+🚀 Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD, Cloud-native applications using AWS, Kubernetes, and DevSecOps tools.  
 **Tech Used:** Terraform, AWS, Kubernetes.  
 
 ### [Project 2](https://github.com/farid555/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
