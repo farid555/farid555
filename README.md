@@ -2,10 +2,7 @@
  Thank you for taking the time to visit my GitHub. Hi there, I’m Mohammad Farid Uzzaman 👋
  
 ---
-
-👀 I’m passionate about **DevOps, Cloud computing, and Automation**
-
-Over the years, I have developed from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
+I’m passionate about **DevOps, Cloud computing, and Automation**. Over the years, I have developed from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in :
 
 -  **Client Relationship Management**: Understanding and complying with the client's needs.
 -  **Requirements Gathering**: Implementing and documenting project or software requirements.
