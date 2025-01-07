@@ -1,11 +1,11 @@
 # Welcome to my GitHub
- Thank you for taking the time to visit my website. Hi there, I’m Mohammad Farid Uzzaman 👋
+ Thank you for taking the time to visit my GitHub. Hi there, I’m Mohammad Farid Uzzaman 👋
  
 ---
 
 👀 I’m passionate about **DevOps, Cloud computing, and Automation**
 
-I have developed over the years from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
+Over the years, I have developed from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
 
 -  **Client Relationship Management**: Understanding and complying with the client's needs.
 -  **Requirements Gathering**: Implementing and documenting project or software requirements.
