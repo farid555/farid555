@@ -3,8 +3,10 @@
 -  Hi there, I’m Mohammad Farid Uzzaman 👋
 ---
 
-- 👀 I’m passionate about **Devops, CLoud computing, and Automation.**
-- I have developed over the years from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
+ 👀 I’m passionate about **DevOps, Cloud computing, and Automation**
+
+I have developed over the years from tinkering with basic scripts to using technology to solve real-world challenges. Today I specialize in:
+
 -  **Client Relationship Management**: Understanding and complying with the client's needs.
 -  **Requirements Gathering**: Implementing and documenting project or software requirements.
 -  **Process Analysis**: Examining processes and finding areas for improvement.
@@ -17,6 +19,7 @@ Every project I take on feels like a journey, a fresh chance to discover, grow, 
 
 ### 🛠️ My Trade's Tools
 I use these tools and technology to make thoughts reality, much like a hero requires the proper weapons:
+
 - Language: Python | Bash
 - Cloud & DevOps: AWS | Linux Adminstation| Version Control System: Git, GitHub | Jenkins | CI/CD pipelines | Terraform.
 - Database: MySQL | MongoDB | PostgreSQL.
@@ -44,11 +47,11 @@ I use these tools and technology to make thoughts reality, much like a hero requ
 
 ## 🌟 Featured Projects
 
-### [Project 1](Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD)
+### [Project 1]([Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD](https://github.com/farid555/reactjs))
 🚀 Cloud-native applications using AWS, Kubernetes, and DevSecOps tools.  
 **Tech Used:** Terraform, AWS, Kubernetes.  
 
-### [Project Name 2](https://github.com/farid555/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
+### [Project 2](https://github.com/farid555/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
 🚀 Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins.  
 **Tech Used:** AWS, EKS, ECS, Jenkins.  
 
@@ -56,8 +59,8 @@ I use these tools and technology to make thoughts reality, much like a hero requ
 
 ## ✉️ Contact Me
 - **Email:** [farid555a@gmail.com](mailto:farid555a@gmail.com)  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mohammad-uzzaman-b4a0421b8/)  
-- **Website:** [@YourHandle](https://portfolio-v1-gules.vercel.app/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohammad-uzzaman-b4a0421b8/)  
+- **Website:** [Portfolio](https://portfolio-v1-gules.vercel.app/)  
 
 ---
 
